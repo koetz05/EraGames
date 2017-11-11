@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078100764984",
+    "firebase_url": "https://eragames-a9faf.firebaseio.com",
+    "project_id": "eragames-a9faf",
+    "storage_bucket": "eragames-a9faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078100764984:android:55421062f066c8d2",
+        "android_client_info": {
+          "package_name": "com.example.root.eragames_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078100764984-bium9jfn0u47qj6vucm7pnru2ut6vt08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdUVf4Y_c8mtXPBNsp3fHPJa-o43ljdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

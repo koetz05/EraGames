@@ -1,0 +1,4 @@
+#Sat Nov 11 15:30:01 BRST 2017
+base.0=/root/AndroidStudioProjects/ERAGames_App/app/build/intermediates/transforms/dexMerger/debug/19
+renamed.0=classes.dex
+file.0=/root/AndroidStudioProjects/ERAGames_App/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex
